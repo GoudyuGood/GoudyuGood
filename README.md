@@ -1,4 +1,4 @@
-aw shit, here we go again.
+whoa theres so many cool things and such little time to do them
 
 <!---
 GoudyuGood/GoudyuGood is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
