@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @GoudyuGood
-- 👀 I’m interested in computers
-- 🌱 I’m currently learning stuff
-- 💞️ I’m looking to collaborate on nothing
-- 📫 How to reach me nothing
+aw shit, here we go again.
 
 <!---
 GoudyuGood/GoudyuGood is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
